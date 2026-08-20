@@ -1,6 +1,6 @@
-# Tiny-8
+# 8 Bit CPU emulator
 
-Tiny-8 is a fictional educational 8-bit CPU emulator. It has four registers,
+This is a fictional educational 8-bit CPU emulator. It has four registers,
 256 bytes of shared program/data memory, fixed-width instructions, an assembler,
 execution tracing, and protection against infinite programs.
 
